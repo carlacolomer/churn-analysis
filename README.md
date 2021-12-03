@@ -1,1 +1,1 @@
-# teleco-churn-analysis
+# churn-analysis
