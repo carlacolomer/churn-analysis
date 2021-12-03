@@ -14,4 +14,4 @@ regression_module.py: Module with functions for execution of Logistic regression
 
 eda_module.py: Module with functions for execution of EDA process
 
-data [csvs]: containing all used data
+csvs: containing all used data
